@@ -1,5 +1,1 @@
-<p>
-    <a href="https://vaunt.dev">
-        <img src="https://api.vaunt.dev/v1/github/entities/{{AnasAli30}}/contributions?format=svg&private=true" width="350" title="Includes public and private contributions" />
-    </a>
-</p>
+[![Vaunt Community](https://api.vaunt.dev/v1/github/entities/{{AnasAli30}}/badges/community)](https://community.vaunt.dev/board/{{AnasAli30}})
