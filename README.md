@@ -62,10 +62,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </a>
 <a href="https://solana.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/solana-labs/solana/master/docs/static/img/solanaLogoMark.svg" alt="solana" width="40" height="40"/>
+  <img src="https://s2.coinmarketcap.com/static/img/coins/200x200/5426.png" alt="solana" width="40" height="40"/>
 </a>
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethereum/ethereum-original.svg" alt="ethereum" width="40" height="40"/>
+  <img src="https://s2.coinmarketcap.com/static/img/coins/200x200/1027.png" alt="ethereum" width="40" height="40"/>
 </a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
