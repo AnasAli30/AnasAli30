@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Anas Ali</h1>
-<h3 align="center">Fullstack & Blockchain Developer | Building the Future of Decentralized Apps 🚀</h3>
+<h3 align="center">Fullstack & Blockchain Developer | Building the Future of Decentralized Apps</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anasali30&label=Profile%20views&color=0e75b6&style=flat" alt="anasali30" />
@@ -36,11 +36,14 @@
 <a href="https://twitter.com/anasxdev" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anasxdev" height="30" width="40" />
 </a>
-<a href="https://linkedin.com/in/anasali30" target="blank">
+<a href="https://linkedin.com/in/anas--ali" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anasali30" height="30" width="40" />
 </a>
 <a href="https://github.com/anasali30" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="anasali30" height="30" width="40" />
+</a>
+<a href="https://farcaster.xyz/hackerx" target="blank">
+  <img align="center" src="https://docs.farcaster.xyz/og-image.png" alt="anasali30" height="30" width="40" />
 </a>
 </p>
 
